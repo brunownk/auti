@@ -1,0 +1,6 @@
+[submodule "auti-web"]
+	path = auti-web
+	url = git@github.com:brunownk/auti-web.git
+[submodule "auti-api"]
+	path = auti-api
+	url = git@github.com:brunownk/auti-api.git
