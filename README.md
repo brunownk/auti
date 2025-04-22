@@ -60,12 +60,6 @@ git submodule update --init --recursive
 - [Frontend Installation](https://github.com/brunownk/auti-web#installation)
 - [Backend Installation](https://github.com/brunownk/auti-api#installation)
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read the contribution guidelines for each component:
-- [Contributing to Frontend](https://github.com/brunownk/auti-web#contributing)
-- [Contributing to Backend](https://github.com/brunownk/auti-api#contributing)
-
 ## 📞 Support and Feedback
 
 For issues or feedback, please open an issue in the corresponding repository:
